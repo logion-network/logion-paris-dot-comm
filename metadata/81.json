@@ -1,0 +1,64 @@
+{
+  "name": "Senny #081",
+  "description": "Senny is an avatar created by the artist Seneca.\nLike a balloon unburdened, Senny symbolizes the light-hearted dreams of all.\n In every brushstroke of Senny, Seneca reveals the deep mysteries that reside in us, intertwining his essence with his art.\nThis NFT was designed by Seneca, created by W3 ART, and certified by Logion as an exclusive gift for Paris Dot Com 2023 attendees.",
+  "image": "https://raw.githubusercontent.com/logion-network/logion-crowdloan-reward/main/thumbnails/thumbnail_81.png",
+  "external_url": "https://dev-certificate.logion.network/public/certificate/292963348700842670123029363923391348386/0xee7bf6f227a91814776e880e61f7f0ae6380bed248b10d4d089fbf30e9efda6f",
+  "attributes": [
+    {
+      "trait_type": "LOC ID",
+      "value": "292963348700842670123029363923391348386"
+    },
+    {
+      "trait_type": "Item ID",
+      "value": "0xee7bf6f227a91814776e880e61f7f0ae6380bed248b10d4d089fbf30e9efda6f"
+    },
+    {
+      "trait_type": "Certificate URL",
+      "value": "https://dev-certificate.logion.network/public/certificate/292963348700842670123029363923391348386/0xee7bf6f227a91814776e880e61f7f0ae6380bed248b10d4d089fbf30e9efda6f"
+    },
+    {
+      "trait_type": "Base Background",
+      "value": "default"
+    },
+    {
+      "trait_type": "Background",
+      "value": "bg pink"
+    },
+    {
+      "trait_type": "Jeans",
+      "value": "Grey Jeans"
+    },
+    {
+      "trait_type": "Base Face Color",
+      "value": "default"
+    },
+    {
+      "trait_type": "Base Nose",
+      "value": "default"
+    },
+    {
+      "trait_type": "Base Face",
+      "value": "default"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Pink Hoodie"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "White Beanie"
+    },
+    {
+      "trait_type": "Hoodie Heart",
+      "value": "Hoodie Heart Red"
+    },
+    {
+      "trait_type": "Shirt Heart",
+      "value": "None"
+    },
+    {
+      "trait_type": "Signature",
+      "value": "Signature"
+    }
+  ]
+}

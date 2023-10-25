@@ -1,0 +1,64 @@
+{
+  "name": "Senny #040",
+  "description": "Senny is an avatar created by the artist Seneca.\nLike a balloon unburdened, Senny symbolizes the light-hearted dreams of all.\n In every brushstroke of Senny, Seneca reveals the deep mysteries that reside in us, intertwining his essence with his art.\nThis NFT was designed by Seneca, created by W3 ART, and certified by Logion as an exclusive gift for Paris Dot Com 2023 attendees.",
+  "image": "https://raw.githubusercontent.com/logion-network/logion-crowdloan-reward/main/thumbnails/thumbnail_40.png",
+  "external_url": "https://dev-certificate.logion.network/public/certificate/292963348700842670123029363923391348386/0x4f10f92db729a4e5d0148cadded340610617b1e75c200abe3fe512286758a7d6",
+  "attributes": [
+    {
+      "trait_type": "LOC ID",
+      "value": "292963348700842670123029363923391348386"
+    },
+    {
+      "trait_type": "Item ID",
+      "value": "0x4f10f92db729a4e5d0148cadded340610617b1e75c200abe3fe512286758a7d6"
+    },
+    {
+      "trait_type": "Certificate URL",
+      "value": "https://dev-certificate.logion.network/public/certificate/292963348700842670123029363923391348386/0x4f10f92db729a4e5d0148cadded340610617b1e75c200abe3fe512286758a7d6"
+    },
+    {
+      "trait_type": "Base Background",
+      "value": "default"
+    },
+    {
+      "trait_type": "Background",
+      "value": "bg blue"
+    },
+    {
+      "trait_type": "Jeans",
+      "value": "Black Jeans"
+    },
+    {
+      "trait_type": "Base Face Color",
+      "value": "default"
+    },
+    {
+      "trait_type": "Base Nose",
+      "value": "default"
+    },
+    {
+      "trait_type": "Base Face",
+      "value": "default"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Purple Hoodie"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Red Wool Cap"
+    },
+    {
+      "trait_type": "Hoodie Heart",
+      "value": "Hoodie Heart Black"
+    },
+    {
+      "trait_type": "Shirt Heart",
+      "value": "None"
+    },
+    {
+      "trait_type": "Signature",
+      "value": "Signature"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Senny #022",
+  "description": "Senny is an avatar created by the artist Seneca.\nLike a balloon unburdened, Senny symbolizes the light-hearted dreams of all.\n In every brushstroke of Senny, Seneca reveals the deep mysteries that reside in us, intertwining his essence with his art.\nThis NFT was designed by Seneca, created by W3 ART, and certified by Logion as an exclusive gift for Paris Dot Com 2023 attendees.",
+  "image": "https://raw.githubusercontent.com/logion-network/logion-crowdloan-reward/main/thumbnails/thumbnail_22.png",
+  "external_url": "https://dev-certificate.logion.network/public/certificate/292963348700842670123029363923391348386/0x733fb2e296a9be8f98ef263a48786fa9d716bd8d3b88053b9179afd2dcea0b29",
+  "attributes": [
+    {
+      "trait_type": "LOC ID",
+      "value": "292963348700842670123029363923391348386"
+    },
+    {
+      "trait_type": "Item ID",
+      "value": "0x733fb2e296a9be8f98ef263a48786fa9d716bd8d3b88053b9179afd2dcea0b29"
+    },
+    {
+      "trait_type": "Certificate URL",
+      "value": "https://dev-certificate.logion.network/public/certificate/292963348700842670123029363923391348386/0x733fb2e296a9be8f98ef263a48786fa9d716bd8d3b88053b9179afd2dcea0b29"
+    },
+    {
+      "trait_type": "Base Background",
+      "value": "default"
+    },
+    {
+      "trait_type": "Background",
+      "value": "special bg 1"
+    },
+    {
+      "trait_type": "Jeans",
+      "value": "Light Blue Jeans"
+    },
+    {
+      "trait_type": "Base Face Color",
+      "value": "default"
+    },
+    {
+      "trait_type": "Base Nose",
+      "value": "default"
+    },
+    {
+      "trait_type": "Base Face",
+      "value": "default"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Yellow Hoodie"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Orange Wool Cap"
+    },
+    {
+      "trait_type": "Hoodie Heart",
+      "value": "Hoodie Heart White"
+    },
+    {
+      "trait_type": "Shirt Heart",
+      "value": "None"
+    },
+    {
+      "trait_type": "Signature",
+      "value": "Signature"
+    }
+  ]
+}

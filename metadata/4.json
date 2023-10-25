@@ -1,0 +1,56 @@
+{
+  "name": "Senny #04",
+  "description": "Senny is an avatar created by the artist Seneca.\nLike a balloon unburdened, Senny symbolizes the light-hearted dreams of all.\n In every brushstroke of Senny, Seneca reveals the deep mysteries that reside in us, intertwining his essence with his art.\nThis NFT was designed by Seneca, created by W3 ART, and certified by Logion as an exclusive gift for Paris Dot Com 2023 attendees.",
+  "image": "https://raw.githubusercontent.com/logion-network/logion-crowdloan-reward/main/thumbnails/thumbnail_4.png",
+  "external_url": "https://dev-certificate.logion.network/public/certificate/292963348700842670123029363923391348386/0xfe4521c6ca030f239e1c8564dcea731f200118bf234397a3033e4bff6c0c34ca",
+  "attributes": [
+    {
+      "trait_type": "LOC ID",
+      "value": "292963348700842670123029363923391348386"
+    },
+    {
+      "trait_type": "Item ID",
+      "value": "0xfe4521c6ca030f239e1c8564dcea731f200118bf234397a3033e4bff6c0c34ca"
+    },
+    {
+      "trait_type": "Certificate URL",
+      "value": "https://dev-certificate.logion.network/public/certificate/292963348700842670123029363923391348386/0xfe4521c6ca030f239e1c8564dcea731f200118bf234397a3033e4bff6c0c34ca"
+    },
+    {
+      "trait_type": "Base Background",
+      "value": "default"
+    },
+    {
+      "trait_type": "Background",
+      "value": "bg pink"
+    },
+    {
+      "trait_type": "Jeans",
+      "value": "Clean Jeans"
+    },
+    {
+      "trait_type": "Base Face",
+      "value": "default"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Clean Shirt"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "White Beanie"
+    },
+    {
+      "trait_type": "Hoodie Heart",
+      "value": "None"
+    },
+    {
+      "trait_type": "Shirt Heart",
+      "value": "Shirt Heart Red"
+    },
+    {
+      "trait_type": "Signature",
+      "value": "Signature"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Senny #060",
+  "description": "Senny is an avatar created by the artist Seneca.\nLike a balloon unburdened, Senny symbolizes the light-hearted dreams of all.\n In every brushstroke of Senny, Seneca reveals the deep mysteries that reside in us, intertwining his essence with his art.\nThis NFT was designed by Seneca, created by W3 ART, and certified by Logion as an exclusive gift for Paris Dot Com 2023 attendees.",
+  "image": "https://raw.githubusercontent.com/logion-network/logion-crowdloan-reward/main/thumbnails/thumbnail_60.png",
+  "external_url": "https://dev-certificate.logion.network/public/certificate/292963348700842670123029363923391348386/0xfaf5e38d8ab923538d02d8f8b837fcc7b2b874cb5ae9d9c836385c83d81e4a03",
+  "attributes": [
+    {
+      "trait_type": "LOC ID",
+      "value": "292963348700842670123029363923391348386"
+    },
+    {
+      "trait_type": "Item ID",
+      "value": "0xfaf5e38d8ab923538d02d8f8b837fcc7b2b874cb5ae9d9c836385c83d81e4a03"
+    },
+    {
+      "trait_type": "Certificate URL",
+      "value": "https://dev-certificate.logion.network/public/certificate/292963348700842670123029363923391348386/0xfaf5e38d8ab923538d02d8f8b837fcc7b2b874cb5ae9d9c836385c83d81e4a03"
+    },
+    {
+      "trait_type": "Base Background",
+      "value": "default"
+    },
+    {
+      "trait_type": "Background",
+      "value": "bg orange"
+    },
+    {
+      "trait_type": "Jeans",
+      "value": "Light Blue Jeans"
+    },
+    {
+      "trait_type": "Base Face Color",
+      "value": "default"
+    },
+    {
+      "trait_type": "Base Nose",
+      "value": "default"
+    },
+    {
+      "trait_type": "Base Face",
+      "value": "default"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Red Marine Shirt"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Dark Blue Marine Hat"
+    },
+    {
+      "trait_type": "Hoodie Heart",
+      "value": "None"
+    },
+    {
+      "trait_type": "Shirt Heart",
+      "value": "None"
+    },
+    {
+      "trait_type": "Signature",
+      "value": "Signature"
+    }
+  ]
+}
