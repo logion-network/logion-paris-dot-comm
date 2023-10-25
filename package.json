@@ -1,0 +1,22 @@
+{
+  "name": "logion-paris-dot-comm",
+  "description": "Script to create/fix assets (metadata and CSV)",
+  "version": "0.1.0",
+  "packageManager": "yarn@3.2.3",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logion-network/logion-paris-dot-comm.git"
+  },
+  "author": "Logion Team",
+  "license": "Apache-2.0",
+  "scripts": {
+    "generate-metadata": "ts-node -P tsconfig-scripts.json scripts/generate_metadata.mts",
+  },
+  "devDependencies": {
+    "@logion/client": "^0.33.0-6",
+    "@types/node": ">=12.0.0",
+    "fast-csv": "^4.3.6",
+    "ts-node": ">=8.0.0",
+    "typescript": "^4.9.5"
+  }
+}
