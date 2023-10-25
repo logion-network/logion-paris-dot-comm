@@ -38,7 +38,7 @@ async function main() {
             value: certificateUrl(i),
         });
         metadata.external_url = certificateUrl(i);
-        metadata.image = `https://raw.githubusercontent.com/logion-network/logion-crowdloan-reward/main/thumbnails/thumbnail_${ i.toString() }.png`
+        metadata.image = `https://raw.githubusercontent.com/logion-network/logion-paris-dot-comm/main/thumbnails/thumbnail_${ i.toString() }.png`
 
         delete metadata.image_integrity;
 
