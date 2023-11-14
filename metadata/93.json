@@ -2,7 +2,7 @@
   "name": "Senny #093",
   "description": "Senny is an avatar created by the artist Seneca.\nLike a balloon unburdened, Senny symbolizes the light-hearted dreams of all.\n In every brushstroke of Senny, Seneca reveals the deep mysteries that reside in us, intertwining his essence with his art.\nThis NFT was designed by Seneca, created by W3 ART, and certified by Logion as an exclusive gift for Paris Dot Com 2023 attendees.",
   "image": "https://raw.githubusercontent.com/logion-network/logion-paris-dot-comm/main/thumbnails/thumbnail_93.png",
-  "external_url": "https://dev-certificate.logion.network/public/certificate/292963348700842670123029363923391348386/0x77c861ff6fb37cea5da953b46071470a9c2d0d4fd466a4c528e676e2f561cf7f",
+  "external_url": "https://certificate.logion.network/public/certificate/292963348700842670123029363923391348386/0x77c861ff6fb37cea5da953b46071470a9c2d0d4fd466a4c528e676e2f561cf7f",
   "attributes": [
     {
       "trait_type": "LOC ID",
@@ -14,7 +14,7 @@
     },
     {
       "trait_type": "Certificate URL",
-      "value": "https://dev-certificate.logion.network/public/certificate/292963348700842670123029363923391348386/0x77c861ff6fb37cea5da953b46071470a9c2d0d4fd466a4c528e676e2f561cf7f"
+      "value": "https://certificate.logion.network/public/certificate/292963348700842670123029363923391348386/0x77c861ff6fb37cea5da953b46071470a9c2d0d4fd466a4c528e676e2f561cf7f"
     },
     {
       "trait_type": "Base Background",

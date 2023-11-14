@@ -5,7 +5,7 @@ import { exit } from "process";
 const TOTAL = 120;
 const NONCE = "";
 const COLLECTION_LOC_ID = "292963348700842670123029363923391348386";
-const CERTIFICATE_HOST = "dev-certificate.logion.network";
+const CERTIFICATE_HOST = "certificate.logion.network";
 
 type Attribute = {
     trait_type: string;
