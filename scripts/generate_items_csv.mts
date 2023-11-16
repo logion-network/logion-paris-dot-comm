@@ -6,7 +6,7 @@ import { generatePSP34TokenItemId, HashOrContent } from "@logion/client";
 
 const TOTAL = 120;
 const NONCE = "";
-const CONTRACT = "__CONTRACT__";
+const CONTRACT = "XXLFQGUoR6uGumo41aP6XpFrpoptvKZU3MBGgFsTbAfr9dw";
 
 async function main() {
     const metadataFolder = "metadata";
